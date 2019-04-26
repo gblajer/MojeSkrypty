@@ -1,0 +1,2 @@
+# MojeSkrypty
+Moje skrypty PowerShell
